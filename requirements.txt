@@ -1,0 +1,12 @@
+ultralytics==8.*
+opencv-python==4.*
+rich
+tqdm
+onnx
+onnxruntime
+fastapi
+uvicorn[standard]
+gradio
+hydra-core
+wandb
+pytest
